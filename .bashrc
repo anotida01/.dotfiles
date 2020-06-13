@@ -142,3 +142,4 @@ ex ()
 
 #ALIASES
 # alias nvidia-settings="optirun -b none nvidia-settings -c :8"
+alias tree="tree -L 2"
