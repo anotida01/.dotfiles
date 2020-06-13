@@ -18,5 +18,6 @@
     "java.semanticHighlighting.enabled": true,
     "latex-workshop.view.pdf.viewer": "tab",
     "workbench.colorTheme": "One Dark Pro",
-    "terminal.integrated.fontSize": 17
+    "terminal.integrated.fontSize": 17,
+    "git.autofetch": true
 }
