@@ -1,16 +1,14 @@
 {
     "window.titleBarStyle": "custom",
     "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "One Dark Pro",
     "editor.fontFamily": "'Ubuntu Mono'",
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.fontSize": 16,
+    "editor.fontSize": 17,
     "window.zoomLevel": 0,
     "oneDarkPro.vivid": true,
     "oneDarkPro.bold": true,
     "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.fontSize": 16,
     "editor.lineHeight": 0,
     "workbench.iconTheme": "vscode-icons",
     "emmet.includeLanguages": {
@@ -18,5 +16,7 @@
     },
     "files.autoSaveDelay": 500,
     "java.semanticHighlighting.enabled": true,
-    "latex-workshop.view.pdf.viewer": "tab"
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.colorTheme": "One Dark Pro",
+    "terminal.integrated.fontSize": 17
 }
