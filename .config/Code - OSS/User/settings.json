@@ -1,11 +1,10 @@
 {
-    "window.titleBarStyle": "custom",
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "'Ubuntu Mono'",
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.fontSize": 17,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "oneDarkPro.vivid": true,
     "oneDarkPro.bold": true,
     "terminal.integrated.cursorBlinking": true,
@@ -19,5 +18,6 @@
     "latex-workshop.view.pdf.viewer": "tab",
     "workbench.colorTheme": "One Dark Pro",
     "terminal.integrated.fontSize": 17,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "git.confirmSync": false
 }

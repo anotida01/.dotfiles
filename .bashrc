@@ -140,6 +140,8 @@ ex ()
 
 #User defined items
 
+export EDITOR=/usr/bin/vim
+
 #ALIASES
 # alias nvidia-settings="optirun -b none nvidia-settings -c :8"
 alias tree="tree -L 2"
