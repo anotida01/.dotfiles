@@ -1,0 +1,16 @@
+set window-title-basename true
+set show-scrollbars true
+
+
+# colors
+set recolor
+# set recolor-keephue
+set recolor-darkcolor "#FFFFFF"
+set recolor-lightcolor "#2E3440"
+set default-bg "#2E3440"
+
+set statusbar-fg "#FFFFFF"
+set statusbar-bg "#2E3440"
+set inputbar-fg "#FFFFFF"
+set inputbar-bg "#333333"
+
