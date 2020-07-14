@@ -1,9 +1,8 @@
 {
-    "files.autoSave": "afterDelay",
     "editor.fontFamily": "'Ubuntu Mono'",
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.fontSize": 17,
+    "editor.fontSize": 15,
     "window.zoomLevel": 1,
     "oneDarkPro.vivid": true,
     "oneDarkPro.bold": true,
@@ -13,11 +12,33 @@
     "emmet.includeLanguages": {
         "django-html": "html"
     },
-    "files.autoSaveDelay": 500,
+    "files.autoSaveDelay": 2000,
     "java.semanticHighlighting.enabled": true,
-    "latex-workshop.view.pdf.viewer": "tab",
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Atom One Light",
     "terminal.integrated.fontSize": 17,
     "git.autofetch": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "latex-workshop.message.error.show": false,
+    "latex-workshop.message.badbox.show": false,
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    "spellright.documentTypes": [
+    
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "latex-workshop.latex.pdfWatch.delay": 1000,
+    "latex-workshop.view.pdf.external.viewer.command": "zathura",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.view.pdf.external.synctex.command": "zathura",
+    "latex-workshop.view.pdf.external.synctex.args": [
+        "--synctex-forward=%LINE%:0:%TEX%",
+        "%PDF%",
+    ],
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "editor.wordWrap": "on",
+    "latex-workshop.latex.autoBuild.interval": 2000,
+    "verilog.linting.linter": "modelsim",
+    "verilog.logging.enabled": true,
+    "terminal.integrated.shell.linux": "/bin/bash"
 }
